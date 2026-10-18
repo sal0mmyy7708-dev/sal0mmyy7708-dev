@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! I'm Salma 👋
 
-<!--
-**sal0mmyy7708-dev/sal0mmyy7708-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer | Future AI Engineer 🚀
 
-Here are some ideas to get you started:
+I'm a beginner developer on a journey to learn programming and artificial intelligence through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Currently learning:** Python and Computer Science
+- 🤖 **Interested in:** Artificial Intelligence and Software Development
+- 🛠️ **Building:** Practical projects to turn ideas into code
+- 🌱 **Growing every day:** Learning, experimenting, and improving my skills
+- 🎯 **My goal:** To become a professional software developer
+
+---
+
+## 🚀 Featured Project
+
+### 💰 Expense Tracker
+
+A Python desktop application to track expenses, manage budgets, and explore spending reports.
+
+🔗 [View my Expense Tracker](https://github.com/sal0mmyy7708-dev/my-expense-tracker)
+
+---
+
+## 🛠️ My Skills
+
+- **Programming Language:** Python
+- **Tools:** GitHub, Python IDLE
+- **Currently exploring:** Computer Science and Artificial Intelligence
+
+---
+
+## 📚 My Learning Journey
+
+I'm learning by building projects, solving problems, and practicing step by step.
+
+✨ *Every expert was once a beginner. I'm building my skills one project at a time.*
+
+Thanks for visiting my profile! 💙
